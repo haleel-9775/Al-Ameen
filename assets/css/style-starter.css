@@ -10471,7 +10471,10 @@ nav ul li a:hover {
   -webkit-transition: .3s ease;
   -moz-transition: .3s ease;
   -ms-transition: .3s ease;
-  -o-transition: .3s ease; }
+  -o-transition: .3s ease;
+  height: 321px;
+  width: 360px;
+ }
 
 .w3l-bottom-grids-6 .area-box:hover {
   transform: translateY(-0.25rem);
